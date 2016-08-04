@@ -1,0 +1,28 @@
+name: Ninh Ly Portfolio
+favicon: null
+layout_spectrum: 0.983929441543296
+typography_spectrum: 0.07638261350803077
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.22611678135581315
+  lightness: 0.6894097162876278
+  saturation: 0.07670288532972336
+  rhythmicContrast: 0.9225176740437746
+purpose: []
